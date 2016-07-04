@@ -4,6 +4,6 @@ public class JavaHelloWorld
 	{
 		System.out.println("Java Hello World");
 		System.out.println("Hello again");
-		System.oul.println("Hello again per three time!");
+		System.out.println("Hello again per three time!");
 	}
 }
